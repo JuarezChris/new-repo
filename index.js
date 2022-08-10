@@ -7,6 +7,5 @@ function positiveNegative(){
       negative.push(arr[i])
     }
   }
-  console.log(negative)
 }
 positiveNegative()     
